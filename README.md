@@ -1,6 +1,6 @@
 ## Hello Word! 🌎💻
 
-- 🌱 Estudante de análise e desenvolvimento de sistemas...
+## - 🌱 Estudante de análise e desenvolvimento de sistemas...
 
 ## Olá! Eu sou André Carneiro, estudante de programação e tecnologia!
 
