@@ -1,8 +1,9 @@
 ## Hello Word! 🌎💻
-
-## - 🌱 Estudante de análise e desenvolvimento de sistemas...
-
 ## Olá! Eu sou André Carneiro, estudante de programação e tecnologia!
+
+- **Atualmente, estou fazendo graduação em Análise e Desenvolvimento de Sistemas** via [Embarque Digital](https://www.portodigital.org/paginas-institucionais/pessoas/formacao?item=Embarque%20Digital#EmbarqueDigital).
+
+- **Além de ser participante da** [Residência Tecnológica - Onboard](https://residencia.portodigital.org/) pelo [Porto Digital](https://www.portodigital.org/noticias/conheca-o-porto-digital-o-maior-parque-tecnologico-urbano-e-aberto-do-brasil).
 
 <div>
   
